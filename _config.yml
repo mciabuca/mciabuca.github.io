@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Ciabuca
-title: 
+title: The Domain
 header-img: img/home-bg.png
 email: ciabuca@gmail.com
 copyright_name: Michael Ciabuca
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Mike's Thoughts and Work
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mciabuca
